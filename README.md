@@ -77,4 +77,5 @@ And the result would be as follows (type as you go):
 - This approach works across modern browsers that support JavaScript Proxy and the required DOM APIs.
 - Ensure compatibility for older browsers if targeting a wider audience.
 
-
+### Get Involved!
+Your contributions to this project is welcome and any ways. Whether it's through pull requests, issue reporting, or spreading the word, your engagement is highly appreciated.
