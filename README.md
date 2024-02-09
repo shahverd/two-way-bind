@@ -1,6 +1,7 @@
 ## view-binder is a Two-Way Data Binding with JavaScript and HTML
 
 ### Overview
+Are you fan of Pure Javascript?
 This library provides a simple and efficient way to manage data flow between your HTML templates and JavaScript components, eliminating the need for manual DOM manipulation and boilerplate code.
 This JavaScript class, `View`, facilitates two-way data binding between JavaScript and HTML elements. Two-way data binding means that changes made in the HTML elements reflect in the JavaScript objects, and vice versa, automatically.
 
