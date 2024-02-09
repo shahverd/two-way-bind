@@ -79,4 +79,4 @@ And the result would be as follows (type as you go):
 - Ensure compatibility for older browsers if targeting a wider audience.
 
 ### Get Involved!
-Your contributions to this project is welcome and any ways. Whether it's through pull requests, issue reporting, or spreading the word, your engagement is highly appreciated.
+Your contributions to this project is welcome in any ways. Whether it's through pull requests, issue reporting, or spreading the word, your engagement is highly appreciated.
