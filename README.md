@@ -1,2 +1,2 @@
-# two-way-bind
-Lightweight library bridges the gap between HTML and JavaScript with two-way binding.
+# two-way-binder
+This library provides a simple and efficient way to manage data flow between your HTML templates and JavaScript components, eliminating the need for manual DOM manipulation and boilerplate code.
