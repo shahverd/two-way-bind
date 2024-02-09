@@ -31,3 +31,6 @@ This library provides a simple and efficient way to manage data flow between you
 </html>
 
 ```
+And the result would be as follows (type as you go):
+
+![Screenshot 2024-02-09 192548](https://github.com/shahverd/view-binder/assets/1610694/695b2fa2-b306-4258-bb60-7898cd355597)
